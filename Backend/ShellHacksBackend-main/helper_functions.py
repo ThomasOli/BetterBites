@@ -4,7 +4,7 @@ from google.cloud import vision
 from google.cloud import documentai_v1 as documentai
 from google.oauth2 import service_account
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "automatic-hawk-437002-u3-6d369553f0e5.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "function address"
 
 
 # Instantiates a client
