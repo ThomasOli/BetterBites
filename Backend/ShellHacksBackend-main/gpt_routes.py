@@ -5,7 +5,6 @@ import json
 
 def gpt_routes(app):
    
-    openai.api_key = "api key"
 
     @app.route('/get_structured_nutrition_facts', methods=['POST'])
     def get_structured_nutrition_facts():
