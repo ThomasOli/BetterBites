@@ -1,10 +1,3 @@
-![image](https://github.com/user-attachments/assets/ab85ae3d-3621-4ea0-8a42-7eeebd185f5c)
-![image](https://github.com/user-attachments/assets/dd0a8cec-eab7-4013-8738-c09542b7554e)
-![image](https://github.com/user-attachments/assets/57383663-3ad7-4b28-a690-e2ec5a6647b5)
-![image](https://github.com/user-attachments/assets/d5b87051-441e-4638-b206-64db26f8f022)
-![image](https://github.com/user-attachments/assets/9a153695-670a-45f9-aefc-d371701ff87b)
-![image](https://github.com/user-attachments/assets/257fd304-6eb0-4efa-abfc-f4c6bfee416c)
-![image](https://github.com/user-attachments/assets/06185e58-a360-4609-a99a-07200434977c)
 
 
 ## Inspiration
@@ -27,3 +20,11 @@ We learned that building scalable, feature-rich apps requires more focus and tea
 
 ## What's next for BetterBites
 We aim to enhance our scanning functionality by improving accuracy and speed, especially with lower-quality images. Additionally, we plan to roll out more personalized features, including deeper insights based on users' dietary needs and preferences. Expanding our dataset and incorporating more AI-driven insights are also on the horizon to make BetterBites a must-have tool for conscious eating.
+
+![image](https://github.com/user-attachments/assets/ab85ae3d-3621-4ea0-8a42-7eeebd185f5c)
+![image](https://github.com/user-attachments/assets/dd0a8cec-eab7-4013-8738-c09542b7554e)
+![image](https://github.com/user-attachments/assets/57383663-3ad7-4b28-a690-e2ec5a6647b5)
+![image](https://github.com/user-attachments/assets/d5b87051-441e-4638-b206-64db26f8f022)
+![image](https://github.com/user-attachments/assets/9a153695-670a-45f9-aefc-d371701ff87b)
+![image](https://github.com/user-attachments/assets/257fd304-6eb0-4efa-abfc-f4c6bfee416c)
+![image](https://github.com/user-attachments/assets/06185e58-a360-4609-a99a-07200434977c)
